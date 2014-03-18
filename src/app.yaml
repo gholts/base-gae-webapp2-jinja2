@@ -1,5 +1,5 @@
-application: # GAE App here
-version: # Version here
+application: base-app # your app id should go here
+version: 1 # change as required
 runtime: python27
 api_version: 1
 threadsafe: false
